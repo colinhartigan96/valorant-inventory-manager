@@ -2,7 +2,6 @@
 
 
 # valorant-inventory-manager
-[![Discord](https://img.shields.io/badge/discord-join-7389D8?style=flat&logo=discord)](https://discord.gg/uGuswsZwAT)
 <span class="badge-buymeacoffee">
 <a href="https://ko-fi.com/colinh" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
 </span>
@@ -12,8 +11,8 @@
 # Installation/Usage
 <!-- **[Demo/tutorial](https://www.youtube.com/watch?v=scMHkcre9yE) → urnotjustin's Youtube video** -->
 
-### 1. Download the [latest release](https://github.com/colinhartigan/valorant-inventory-manager/releases/latest) (executable)
-It is recommended that you use the [latest release](https://github.com/colinhartigan/valorant-inventory-manager/releases/latest) as compatibility is continuously phased out for old versions as development continues.
+### 1. Download the [latest release](https://github.com/colinhartigan96/valorant-inventory-manager/releases/latest) (executable)
+It is recommended that you use the [latest release](https://github.com/colinhartigan96/valorant-inventory-manager/releases/latest) as compatibility is continuously phased out for old versions as development continues.
 
 ### 2. Run VIM.exe
 As long as `VIM.exe` is running, the randomizer/other features will remain running. **The website does not always need to be open for VIM to work.** Since VIM is packaged into a single file and requires no installer, it is recommended that you move the executable from the downloads folder to a more accessible location, like your taskbar or desktop.
@@ -59,7 +58,7 @@ The executable will be dumped to `dist/`.
 - favorite skin/buddy combos
 
 # Contributing
-If you have improvements or ideas to improve the design or code of the app, please open a pull request with your changes. Planned/indev features are listed on the [projects page](https://github.com/colinhartigan/valorant-inventory-manager/projects/1). 
+If you have improvements or ideas to improve the design or code of the app, please open a pull request with your changes. Planned/indev features are listed on the [projects page](https://github.com/colinhartigan96/valorant-inventory-manager/projects/1). 
 
 # Legal
 This project is not affiliated with Riot Games or any of its employees and therefore does not reflect the views of said parties. This is purely a fan-made project to enhance VALORANT's inventory management.
