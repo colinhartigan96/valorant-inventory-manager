@@ -1,4 +1,4 @@
-### **THIS IS NOT A SKIN "HACK". IT DOES NOT GIVE YOU FREE SKINS.**
+### **THIS IS not A SKIN "HACK". IT DOES not GIVE YOU FREE SKINS.**
 
 
 # valorant-inventory-manager
